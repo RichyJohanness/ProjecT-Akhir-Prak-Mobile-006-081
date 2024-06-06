@@ -54,7 +54,7 @@ class AccountPage extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
                 child: Text(
-                  'Terimakasih untuk 1 Semester Mata Kuliah Mobile. Sangat menyenangkan bukan?',
+                  'Project Akhir Praktikum Teknologi Mobile. 123210006 - 123210081',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 16,

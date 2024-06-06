@@ -4,7 +4,6 @@ import 'package:projectakhir_tpm_123210006/hive/hive_database.dart';
 import 'package:projectakhir_tpm_123210006/login/register.dart';
 import 'package:projectakhir_tpm_123210006/login/session_manager.dart';
 import 'package:projectakhir_tpm_123210006/product/mainpage.dart';
-import 'package:shared_preferences/shared_preferences.dart'; // Import untuk SharedPreferences
 
 const accessoriesColor = Color(0xffeab56f);
 const backgroundColor = Color(0xff254252);
